@@ -1,3 +1,3 @@
 # javaScript_animation
 
-Waves
+Waves: clone coding from YouTube channel #interactive developer
